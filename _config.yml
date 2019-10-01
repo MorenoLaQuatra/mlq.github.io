@@ -10,7 +10,7 @@ locale                   : "it-IT"
 title                    : "Moreno La Quatra"
 title_separator          : "-"
 name                     : &name "Moreno"
-description              : &description "personal description"
+description              : &description "Moreno La Quatra has been a PhD student at the Politecnico di Torino since November 2018. After his graduation in Computer Engineering with a double degree program between Politecnico di Torino and Grenoble INP, he started his PhD in the domain of Multimedia and Text analysis. His main research interests are related to deep neural networks for language modeling and understanding."
 url                      : https://morenolaquatra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "morenolaquatra/morenolaquatra.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Moreno La Quatra"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student in Text and Multimedia Understanding at Politecnico di Torino"
   location         : "Torino, Italy"
   employer         :
   pubmed           : 
