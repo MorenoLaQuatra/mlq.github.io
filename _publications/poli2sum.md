@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/poli2sum
 excerpt: 'This paper presents the Poli2Sum approach to the 5th Computational Linguistics Scientific Document Summarization Shared Task (BIRNDL CL-SciSumm 2019). '
 date: 2019-07-25
-venue: 'Journal 1'
+venue: 'In 4th Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2019) @ SIGIR 2019 (Vol. 2414, pp. 233–246)'
 paperurl: 'http://ceur-ws.org/Vol-2414/paper24.pdf'
 citation: 'La Quatra, M., Cagliero, L., & Baralis, E. (2019). Poli2Sum@CL-SciSumm-19: Identify, Classify, and Summarize Cited Text Spans by means of Ensembles of Supervised Models. In 4th Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2019) @ SIGIR 2019 (Vol. 2414, pp. 233–246).'
 ---
