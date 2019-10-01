@@ -1,4 +1,3 @@
-
 ---
 title: "Combining Machine Learning and Natural Language Processing for Language-Specific, Multi-Lingual, and Cross-Lingual Text Summarization: A Wide-Ranging Overview"
 collection: publications
