@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, 2015
+* B.S. in Computer Engineering - Politecnico di Torino, 2015
 * Double Degree M.S. in Computer Engineering - Politecnico di Torino/Grenoble INP, 2018
 * M.S. Data Science MoSIG - Grenoble INP, 2018
 * Ph.D in Text and Multimedia Analytics, Politecnico di Torino, 2021 (expected)
