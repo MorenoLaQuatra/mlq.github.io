@@ -11,31 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering - Politecnico di Torino, 2015
-* Double Degree M.S. in Computer Engineering - Politecnico di Torino/Grenoble INP, 2018
-* M.S. Data Science MoSIG - Grenoble INP, 2018
 * Ph.D in Text and Multimedia Analytics, Politecnico di Torino, 2021 (expected)
+* M.S. Data Science MoSIG - Grenoble INP, 2018
+* M.S. in Computer Engineering - Politecnico di Torino/Grenoble INP (Double Degree), 2018
+* B.S. in Computer Engineering - Politecnico di Torino, 2015
+
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February - July 2018: Research Internship
+  * Bull (Atos Technology)
+  * Duties included: Active Learning related research
+  * Supervisor: Matthieu Ospici
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February - July 2017: Software Intern
+  * BASSETTI
+  * Duties included: Improving Solr-based search engine using NLP techniques
+  * Supervisor: Jonathan Mougin
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+* Java
+* Python
+* Web Development
+  * PHP
+  * JavaScript
+
 
 Publications
 ======
@@ -55,6 +59,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
