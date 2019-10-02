@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, 2015
+* Double Degree M.S. in Computer Engineering - Politecnico di Torino/Grenoble INP, 2018
+* M.S. Data Science MoSIG - Grenoble INP, 2018
+* Ph.D in Text and Multimedia Analytics, Politecnico di Torino, 2021 (expected)
 
 Work experience
 ======
