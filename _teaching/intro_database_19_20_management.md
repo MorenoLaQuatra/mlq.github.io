@@ -12,5 +12,5 @@ This course is an introduction to databases for undergraduate students. The trai
 
 * Relational Algebra
 * SQL language
-* No-SQL concepts (MongoDB)
+* No-SQL concepts (Mongo DB)
 * Google Data Studio
