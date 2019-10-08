@@ -1,5 +1,5 @@
 ---
-title: "Introduction to databases"
+title: "Introduction to databases (Computer Engineering)"
 collection: teaching
 type: "Teaching assistant for undergraduate course"
 permalink: /teaching/intro_database_19_20_cs
