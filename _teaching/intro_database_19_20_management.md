@@ -8,7 +8,7 @@ date: 2019-10-28
 location: "Turin, Italy"
 ---
 
-This course is an introduction to databases for undergraduate students. The training activities address the following topics:
+This course is an introduction to databases for undergraduate students in Management Engineering. The training activities address the following topics:
 
 * Relational Algebra
 * SQL language
