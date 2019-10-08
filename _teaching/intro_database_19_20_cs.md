@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching assistant for undergraduate course"
 permalink: /teaching/intro_database_19_20_cs
 venue: "Politecnico di Torino, DAUIN"
-date: 2020-03 / 2020-07
+date: 2020-03-01
 location: "Turin, Italy"
 ---
 
