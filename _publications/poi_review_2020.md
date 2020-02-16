@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/poi_review_2020
 excerpt: 'In the context of hospitality management, a challenging research problem is to identify effective strategies to explain hotel reviews and ratings and their correlation with the urban context. Under this umbrella, the paper investigates the use of sentence-based embedding models to deeply explore the similarities and dissimilarities between cities in terms of the corresponding hotel reviews and the surrounding points of interests.'
 date: 2020-01-20
+venue: 'Electronics, 9(1)'
 paperurl: 'https://www.mdpi.com/2079-9292/9/1/197'
 citation: 'Cagliero, L.; La Quatra, M.; Apiletti, D. From Hotel Reviews to City Similarities: A Unified Latent-Space Model. Electronics 2020, 9, 197.'
 ---
