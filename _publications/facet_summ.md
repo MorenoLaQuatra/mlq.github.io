@@ -3,7 +3,7 @@ title: "Exploiting pivot words to classify and summarize discourse facets of sci
 collection: publications
 permalink: /publication/facet_summ
 excerpt: ' This paper proposes a new, more effective solution to the CL-SciSumm discourse facet classification task, which entails identifying for each cited text span what facet of the paper it belongs to from a predefined set of facets.'
-date: 2019-07-25
+date: 2020-06-14
 venue: 'Scientometrics (2020)'
 paperurl: 'https://doi.org/10.1007/s11192-020-03532-3'
 citation: 'La Quatra, M., Cagliero, L. & Baralis, E. Exploiting pivot words to classify and summarize discourse facets of scientific papers. Scientometrics (2020). https://doi.org/10.1007/s11192-020-03532-3'
