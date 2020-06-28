@@ -12,5 +12,5 @@ This course is an introduction to databases for undergraduate students of comput
 
 * Relational Algebra.
 * SQL language.
+* Triggers.
 * Web and PHP language for database communication.
-* No-SQL concepts (Mongo DB).
