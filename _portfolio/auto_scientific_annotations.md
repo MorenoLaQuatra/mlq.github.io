@@ -5,9 +5,9 @@ collection: portfolio
 ---
 This repository contains the automatically annotated citations for the ScisummNet dataset using the classifier trained on the annotated collection scisumm-corpus. The annotation method uses the pivot-based classification model.
 
-Paper: La Quatra, M., Cagliero, L. & Baralis, E. Exploiting pivot words to classify and summarize discourse facets of scientific papers. Scientometrics (2020). https://doi.org/10.1007/s11192-020-03532-3
+Paper: La Quatra, M., Cagliero, L. & Baralis, E. Exploiting pivot words to classify and summarize discourse facets of scientific papers. Scientometrics (2020). <a href="https://doi.org/10.1007/s11192-020-03532-3">https://doi.org/10.1007/s11192-020-03532-3</a>
 <br>
-[https://cs.stanford.edu/~myasu/projects/scisumm_net/](SciSummNet Dataset)
+SciSummNet Dataset: <a href="https://cs.stanford.edu/~myasu/projects/scisumm_net/">https://cs.stanford.edu/~myasu/projects/scisumm_net/</a>
 
 <hr>
 <div class="github-card" data-github="MorenoLaQuatra/Auto-Scientific-Annotation" data-width="400" data-height="252" data-theme="default"></div>
