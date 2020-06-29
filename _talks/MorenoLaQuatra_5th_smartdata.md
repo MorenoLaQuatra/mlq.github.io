@@ -14,7 +14,7 @@ Thanks to the world-scale diffusion of web-based applications, digital libraries
 <hr>
 Slides:
 <br>
-<iframe src="/files/automatic_highlights.pdf#toolbar=0" width="100%" height="200px"></iframe>
+<iframe src="/files/automatic_highlights.pdf#toolbar=0" width="100%" height="400px"></iframe>
 <hr>
 Paper:
 <br>
