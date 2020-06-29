@@ -9,6 +9,8 @@ location: "Barolo, Italy"
 ---
 
 Thanks to the world-scale diffusion of web-based applications, digital libraries are playing a foundamental role in giving access to research papers thus allowing researchers to disseminate their main research findings. Our work focuses on extracting the sentences that best summarize the main topics and finding of the research manuscript in an automated manner.
+
+
 <hr>
 Slides:
 <br>
