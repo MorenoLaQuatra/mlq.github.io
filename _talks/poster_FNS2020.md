@@ -20,6 +20,6 @@ La Quatra, M., & Cagliero, L. (2020, December). End-to-end Training For Financia
 
 
 <hr>
-<img src='/images/sumto_preview.png'>
+<img src='/images/poster_landscape_FNS2020.png'>
 
 
