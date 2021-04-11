@@ -15,4 +15,5 @@ Hi, I'm Moreno La Quatra, a PhD student (since 2018) at [Politecnico di Torino](
 * Data driven content personalization
 * Multi-modal data integration
 
+I also co-supervise some master thesis at Politecnico di Torino. If you are a student in PoliTO and you are looking for a theisis in this domain, please take a look at our [repository](https://github.com/MorenoLaQuatra/MTI-polito) that contains the updated thesis proposals.
 
