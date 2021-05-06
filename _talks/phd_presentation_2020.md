@@ -13,4 +13,4 @@ Using a video presentation I show some of the research trends investigated durin
 
 <hr>
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtube_player.html id=page.youtubeId %}
