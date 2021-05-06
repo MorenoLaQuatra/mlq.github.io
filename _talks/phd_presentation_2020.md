@@ -9,7 +9,7 @@ location: "Turin, Italy (Virtual)"
 ---
 
 Using a video presentation I show some of the research trends investigated during my PhD studies. 
-I give an very high-level overview multilingual and timeline summarization tasks that we address by using **NLP** and **Deep Learning** .
+I give an very high-level overview multilingual and timeline summarization tasks that we address by using NLP and Deep Learning.
 
 <hr>
 
