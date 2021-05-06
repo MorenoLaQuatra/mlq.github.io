@@ -11,4 +11,7 @@ location: "Turin, Italy (Virtual)"
 I presented using a illustrative video some of the research trends investigated during my PhD studies.
 
 <hr>
-<video src='https://www.youtube.com/watch?v=c3Urx4hTYSQ'>
+---
+youtubeId: c3Urx4hTYSQ
+---
+{% include youtubePlayer.html id=page.youtubeId %}
