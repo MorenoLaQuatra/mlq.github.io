@@ -8,7 +8,8 @@ date: 2020-11-17
 location: "Turin, Italy (Virtual)"
 ---
 
-Using a video presentation I show some of the research trends investigated during my PhD studies.
+Using a video presentation I show some of the research trends investigated during my PhD studies. 
+I give an very high-level overview of how is possible to address multilingual and timeline summarization tasks by using **NLP** and **Deep Learning**.
 
 <hr>
 
