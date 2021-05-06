@@ -8,7 +8,7 @@ date: 2020-11-17
 location: "Turin, Italy (Virtual)"
 ---
 
-I presented using a illustrative video some of the research trends investigated during my PhD studies.
+Using a video presentation I show some of the research trends investigated during my PhD studies.
 
 <hr>
 ---
