@@ -13,4 +13,4 @@ I give an very high-level overview multilingual and timeline summarization tasks
 
 <hr>
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/c3Urx4hTYSQ" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c3Urx4hTYSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
