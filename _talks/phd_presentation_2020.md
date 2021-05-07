@@ -13,4 +13,4 @@ I give an very high-level overview multilingual and timeline summarization tasks
 
 <hr>
 
-{% include youtube_player.html id=c3Urx4hTYSQ %}
+<iframe width="480" height="360" src="http://www.youtube.com/embed/c3Urx4hTYSQ" frameborder="0"> </iframe>
