@@ -1,5 +1,5 @@
 ---
-title: "Introduction to databases (Management Engineering)"
+title: "Introduction to databases (Management Engineering) (2020-Current)"
 collection: teaching
 type: "Teaching assistant for undergraduate course"
 permalink: /teaching/intro_database_19_20_management
