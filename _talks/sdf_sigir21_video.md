@@ -8,6 +8,12 @@ date: 2021-07-12
 location: "Montréal, Canada (Virtual)"
 ---
 
+This the video presentation for the Paper: "Summarize Dates First: A Paradigm Shift in Timeline Summarization"
+
+<hr>
+
+Link to the video: https://doi.org/10.1145/3404835.3462954
+
 <div class="cloudflare-stream-container"><input type="hidden" class="cloudFlareScript" name="cloudFlareScript" value="https://embed.cloudflarestream.com/embed/r4xu.fla9.latest.js">
  <script>
 window.addEventListener('load', function () {
