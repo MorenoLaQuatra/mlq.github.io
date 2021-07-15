@@ -12,7 +12,7 @@ This the video presentation for the Paper: "Summarize Dates First: A Paradigm Sh
 
 <hr>
 
-Link to the video: https://doi.org/10.1145/3404835.3462954
+Link to the video: [https://doi.org/10.1145/3404835.3462954](https://doi.org/10.1145/3404835.3462954)
 
 <div class="cloudflare-stream-container"><input type="hidden" class="cloudFlareScript" name="cloudFlareScript" value="https://embed.cloudflarestream.com/embed/r4xu.fla9.latest.js">
  <script>
