@@ -1,5 +1,5 @@
 ---
-title: "Introduction to databases (Management Engineering) (2020-Current)"
+title: "Introduction to databases (Management Engineering) (2019-Current)"
 collection: teaching
 type: "Teaching assistant for undergraduate course"
 permalink: /teaching/intro_database_19_20_management
@@ -13,4 +13,4 @@ This course is an introduction to databases for undergraduate students of manage
 * Relational Algebra
 * SQL language
 * No-SQL concepts (Mongo DB)
-* Google Data Studio
+* Dashboard generation with Google Data Studio
