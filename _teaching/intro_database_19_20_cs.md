@@ -1,5 +1,5 @@
 ---
-title: "Introduction to databases (Computer Engineering) (2020-2021)"
+title: "Introduction to databases (Computer Engineering) (2020-2021, 2 Years)"
 collection: teaching
 type: "Teaching assistant for undergraduate course"
 permalink: /teaching/intro_database_19_20_cs
