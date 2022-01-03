@@ -11,7 +11,7 @@ citation: 'Giuseppe Attanasio, Salvatore Greco, Moreno La Quatra, Luca Cagliero,
 Preserving diversity and inclusion is becoming a compelling need in both industry and academia. The ability to use appropriate forms of writing, speaking, and gestures is not widespread even in formal communications such as public calls, public announcements, official reports, and legal documents. The improper use of linguistic expressions can foment unacceptable forms of exclusion, stereotypes as well as forms of verbal violence against minorities, including women. Furthermore, existing machine translation tools are not designed to generate inclusive content.
 The present paper investigates a joint effort of the research communities of linguistics and Deep Learning Natural Language Understanding in fighting against non-inclusive, prejudiced language forms. It presents a methodology aimed at tackling the improper use of language in formal communication, with a particular attention paid to Romanic languages (Italian, in particular). State-of-the-art Deep Language Modeling architectures are exploited to automatically identify non-inclusive text snippets, suggest alternative forms, and produce inclusive text rephrasing. A preliminary evaluation conducted on a benchmark dataset shows promising results, i.e., 85% accuracy in predicting inclusive/non-inclusive communications.
 
-[Download paper here](https://iris.polito.it/retrieve/handle/11583/2946252/550758/E_MIMIC.pdf)
+[Download paper here](https://iris.polito.it/handle/11583/2946252#.YdMA8HnSJ8I)
 
 [Presentation slides](https://dbdmg.polito.it/e-mimic/images/E-MIMIC_slides.pdf)
 
