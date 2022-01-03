@@ -3,7 +3,7 @@ title: "E-MIMIC: Empowering Multilingual Inclusive Communication"
 collection: publications
 permalink: /publication/emimic
 excerpt: 'This paper presents a methodology aimed at tackling the improper use of language informal communication. State-of-the-art Deep Language Modeling architectures are exploited to automatically identify non-inclusive text snippets, suggest alternative forms, and produce inclusive text rephrasing. '
-date: 15-12-2021
+date: 2021-12-15
 venue: 'IEEE International Conference on Big Data 2021'
 paperurl: 'https://iris.polito.it/retrieve/handle/11583/2946252/550758/E_MIMIC.pdf'
 citation: 'Moreno La Quatra, Luca Cagliero, Elena Baralis, Alberto Messina, and Maurizio Montagnuolo. 2021. Summarize Dates First: A Paradigm Shift in Timeline Summarization. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 21). Association for Computing Machinery, New York, NY, USA, 418–427. DOI:https://doi.org/10.1145/3404835.3462954'
