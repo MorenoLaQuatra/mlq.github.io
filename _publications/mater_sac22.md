@@ -2,7 +2,7 @@
 title: "Leveraging multimodal content for podcast summarization"
 collection: publications
 permalink: /publication/mater_sac22
-excerpt: 'Podcasts are becoming an increasingly popular way to share streaming audio content.Podcast summarization aims at improving the accessibility of podcast content by automatically generating a concise summary consisting of text/audio extracts. Previous approaches either extract short audio snippets by means of speech summarization techniques or produce abstractive summaries of the speech transcription disregarding the podcast audio.'
+excerpt: 'Podcasts are becoming an increasingly popular way to share streaming audio content. Podcast summarization aims at improving the accessibility of podcast content by automatically generating a concise summary consisting of text/audio extracts. Previous approaches either extract short audio snippets by means of speech summarization techniques or produce abstractive summaries of the speech transcription disregarding the podcast audio.'
 date: 2022-04-26
 venue: 'ACM SAC 2022'
 paperurl: 'https://doi.org/10.1145/3404835.3462954'
