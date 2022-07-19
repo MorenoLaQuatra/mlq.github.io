@@ -6,7 +6,7 @@ collection: portfolio
 This huggingface space contains the demo for CALM, a model that is able to align music and natural language descriptions. It is a limited version of the model, trained on FMA dataset and running over 1K examples only. The project repository is available here: https://github.com/MorenoLaQuatra/CALM . We are currently writing a paper describing the model.
 
 <hr>
-Repository: <a href="https://github.com/MorenoLaQuatra/CALM">https://github.com/MorenoLaQuatra/CALM</a>
+Repository: <a href="https://github.com/MorenoLaQuatra/CALM">https://github.com/MorenoLaQuatra/CALM</a> <br>
 Demo: <a href="https://huggingface.co/spaces/ALM/CALM">https://huggingface.co/spaces/ALM/CALM</a >
 
 <hr>
