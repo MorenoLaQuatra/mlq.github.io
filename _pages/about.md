@@ -1,19 +1,22 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "👋 Hi!"
+excerpt: "👋 Hi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I'm Moreno La Quatra, a PhD student (since 2018) at [Politecnico di Torino](https://www.polito.it) working in the domain of Multimedia and Text Analysis. My research interests are related (but not restricted to):
+👋 Hi, I'm Moreno La Quatra, a PhD Candidate at [Politecnico di Torino](https://www.polito.it) focusing on the analysis of Natural Language and Audio.
+I'm mostly interested in machine listening and natural language understanding. Some active research areas:
 
-* Natural Language Understanding
-* Embedding techniques and latent spaces
-* Data driven content personalization
-* Multi-modal data integration
+* Multimodal summarization (e.g., [podcasts](https://github.com/MorenoLaQuatra/MATeR))
+* Music Information Retrieval (e.g., [CALM](https://github.com/MorenoLaQuatra/CALM))
+* Audio analysis (e.g., both environmental and voice)
+* Scientometrics and general scientific document analysis (e.g., [THExt](https://github.com/MorenoLaQuatra/THExt))
 
-I also co-supervise some master thesis at Politecnico di Torino. If you are a student in PoliTO and you are looking for a theisis in this domain, please take a look at our [repository](https://github.com/MorenoLaQuatra/MTI-polito) that contains the updated thesis proposals.
+That list is by no means exhaustive. I'm interested in many other topics and problems, so feel free to reach out!
+
+I also co-supervise some master thesis at Politecnico di Torino. If you are a student in PoliTO and you are looking for a thesis in this domain, please take a look at our [repository](https://github.com/MorenoLaQuatra/MTI-polito) that contains the updated thesis proposals.
 
