@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Moreno La Quatra"
-excerpt: "👋 Hi!"
+title: "👋 Hi!"
+excerpt: "Moreno La Quatra"
 author_profile: true
 redirect_from: 
   - /about/
