@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hi!"
+title: "Moreno La Quatra"
 excerpt: "👋 Hi!"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I'm Moreno La Quatra, a PhD Candidate at [Politecnico di Torino](https://www.polito.it) focusing on the analysis of Natural Language and Audio.
+I'm Moreno La Quatra, a PhD Candidate at [Politecnico di Torino](https://www.polito.it) focusing on the analysis of Natural Language and Audio.
 I'm mostly interested in machine listening and natural language understanding. Some active research areas:
 
 * Multimodal summarization (e.g., [podcasts](https://github.com/MorenoLaQuatra/MATeR))
